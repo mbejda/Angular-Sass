@@ -1,8 +1,6 @@
 {
-  //////awk '!/karma/' package.json > temp1.json && awk '!/phantom/' temp1.json > temp2.json && mv temp2.json package2.json
   "name": "sass",
   "private": true,///awk '!/pattern/' file > temp && mv temp file
-
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
     "grunt": "^0.4.5",
