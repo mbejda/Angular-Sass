@@ -1,6 +1,6 @@
 {
   "name": "sass",
-  "private": true,///awk '!/pattern/' file > temp && mv temp file
+  "private": true,
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
     "grunt": "^0.4.5",
@@ -27,7 +27,6 @@
     "grunt-wiredep": "^2.0.0",
     "jit-grunt": "^0.9.1",
     "time-grunt": "^1.0.0",
-    "some-karma-shit":"123"
   },
   "engines": {
     "node": ">=0.10.0"
