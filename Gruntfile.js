@@ -488,6 +488,7 @@ module.exports = function (grunt) {
     'connect:test'
   ]);
 
+
   grunt.registerTask('build', [
     'clean:dist',
     'wiredep',
